@@ -16,5 +16,17 @@ This project analyzes how Bitcoin market sentiment impacts trader performance us
 - Seaborn
 - Google Colab
 
+## Dataset Access
+
+Due to file size limitations, datasets are not included in this repository.
+
+They can be accessed from the original sources:
+- Historical Trader Data (Hyperliquid):  
+  https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
+
+- Bitcoin Fear & Greed Index:  
+  https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
+
+
 ## Author
 Shadhani Shambharkar
